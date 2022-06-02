@@ -1,26 +1,3 @@
-```sh
-~/ cd ~/AboutMe
-~/AboutMe/ chmod +x fetch.sh
-~/AboutMe/ ./fetch.sh
-
-deathemonic@github
--------------------------
-OS · Archcraft x86_64 
-Shell · zsh
-Location · Japan
-Languages · HTML, CSS, Javascript, Python, SCSS, Typescript, Rust, Bash, Lua
-Hobbies · Coding, Ricing, Watching YT and Tiktok and playing Games
-Ko-Fi · https://ko-fi.com/Deathemonic
-```
-<details>
-<summary><b>Extend</b></summary>
-
-**`Stats`**
-
-![Deathemonic's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathemonic&theme=dark&show_icons=true)
-  
-**`Top Languages`**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deathemonic&theme=dark&layout=compact)
-</details>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deathemonic&show_icons=true&bg_color=212529&text_color=FFBEBE&title_color=DEFBFF&icon_color=DEFBFF&border_radius=20&border_color=FFBEBE&locale=ja"/>
+<p>
